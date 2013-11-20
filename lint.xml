@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src\com\example\listviewtest\SMS_ListActivity.java" />
+    </issue>
+    <issue id="ParserError">
+        <ignore path="src\com\example\listviewtest\MainActivity.java" />
+    </issue>
+</lint>
